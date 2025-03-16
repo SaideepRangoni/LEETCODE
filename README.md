@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
