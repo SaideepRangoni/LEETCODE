@@ -36,8 +36,17 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SaideepRangoni/LEETCODE/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SaideepRangoni/LEETCODE/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SaideepRangoni/LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
