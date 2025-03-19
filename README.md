@@ -32,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SaideepRangoni/LEETCODE/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaideepRangoni/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
