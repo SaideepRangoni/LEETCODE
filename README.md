@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
