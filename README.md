@@ -20,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaideepRangoni/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -51,12 +52,14 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaideepRangoni/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SaideepRangoni/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaideepRangoni/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/SaideepRangoni/LEETCODE/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaideepRangoni/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SaideepRangoni/LEETCODE/tree/master/0010-regular-expression-matching) |
 ## Backtracking
 |  |
