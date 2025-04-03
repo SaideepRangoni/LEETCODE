@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/SaideepRangoni/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SaideepRangoni/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/SaideepRangoni/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 ## Simulation
 |  |
 | ------- |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SaideepRangoni/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SaideepRangoni/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
