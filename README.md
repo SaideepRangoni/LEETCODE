@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
 | [0724-find-pivot-index](https://github.com/SaideepRangoni/LEETCODE/tree/master/0724-find-pivot-index) |
 | [2714-left-and-right-sum-differences](https://github.com/SaideepRangoni/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/SaideepRangoni/LEETCODE/tree/master/0724-find-pivot-index) |
 | [2714-left-and-right-sum-differences](https://github.com/SaideepRangoni/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -42,6 +44,7 @@
 | [0007-reverse-integer](https://github.com/SaideepRangoni/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SaideepRangoni/LEETCODE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/SaideepRangoni/LEETCODE/tree/master/0029-divide-two-integers) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
