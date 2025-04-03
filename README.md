@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
+| [0724-find-pivot-index](https://github.com/SaideepRangoni/LEETCODE/tree/master/0724-find-pivot-index) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/SaideepRangoni/LEETCODE/tree/master/0724-find-pivot-index) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
