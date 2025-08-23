@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
 | [0724-find-pivot-index](https://github.com/SaideepRangoni/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/SaideepRangoni/LEETCODE/tree/master/0948-sort-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaideepRangoni/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2714-left-and-right-sum-differences](https://github.com/SaideepRangoni/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/SaideepRangoni/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3643-zero-array-transformation-ii](https://github.com/SaideepRangoni/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
