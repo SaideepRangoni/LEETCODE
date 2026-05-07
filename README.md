@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaideepRangoni/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SaideepRangoni/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0724-find-pivot-index](https://github.com/SaideepRangoni/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/SaideepRangoni/LEETCODE/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaideepRangoni/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaideepRangoni/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SaideepRangoni/LEETCODE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SaideepRangoni/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
